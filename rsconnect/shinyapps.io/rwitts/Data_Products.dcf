@@ -1,0 +1,12 @@
+name: Data_Products
+title: Data_Products
+username:
+account: rwitts
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 312281
+bundleId: 1295701
+url: https://rwitts.shinyapps.io/Data_Products/
+when: 1522463260.09821
+asMultiple: FALSE
+asStatic: FALSE
